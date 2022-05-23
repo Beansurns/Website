@@ -1,0 +1,53 @@
+
+body {
+    background-color: #2d2b2b;
+    display: grid;
+    place-content: center;
+    padding: 16px;
+}
+
+h1 {
+    color: aquamarine;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#goals_button{
+    position: relative;
+    left: 30%;
+    width: 200px;
+    background: #2d2b2b;
+    border: 3px cool;
+    border-color: aquamarine;
+    border-radius: 8px;
+    color: aquamarine;
+    font-size: 20px;
+    padding: 16px 16px;
+}
+
+#achievements_button{
+    position: relative;
+    left: 30%;
+    width: 200px;
+    background: #2d2b2b;
+    border: 3px cool;
+    border-color: aquamarine;
+    border-radius: 8px;
+    color: aquamarine;
+    font-size: 20px;
+    padding: 16px 16px;
+}
+
+#routine_button{
+    position: relative;
+    left: 30%;
+    width: 200px;
+    background: #2d2b2b;
+    border: 3px cool;
+    border-color: aquamarine;
+    border-radius: 8px;
+    color: aquamarine;
+    font-size: 20px;
+    padding: 16px 16px;
+
+}
