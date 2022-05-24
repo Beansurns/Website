@@ -114,3 +114,30 @@
 	 left: calc(50% - 0.133333333rem);
 	 background: #fff;
 }
+
+ #taskbar{
+	  background: linear-gradient(#6046ff,#23232d);
+      width: 3vw;
+	  height: 70vh;
+	  border-radius: 1.6rem;
+      padding: 50px;
+      margin: 20px;
+	  left: 31vw;
+	  top: 0;
+	  position: relative;
+	  box-shadow: 0 33px 99px 0 rgba(96, 70, 255, .4);
+}
+
+  #taskbar-shadow{
+	  background: linear-gradient(#6046ff,#23232d);
+      width: 4.5vw;
+	  height: 74vh;
+	  border-radius: 1.6rem;
+      padding: 50px;
+      margin: 20px;
+	  left: 20.25vw;
+	  top: 0;
+	  position: relative;
+	  filter: blur(25px);
+
+}

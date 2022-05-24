@@ -51,3 +51,11 @@ h1 {
     padding: 16px 16px;
 
 }
+
+#taskbar{
+    background: #6046ff;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
